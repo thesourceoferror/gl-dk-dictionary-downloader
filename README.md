@@ -1,5 +1,5 @@
 # gl-dk-dictionary-downloader
-Downloads the GL-DK dictionary from http://ilinniusiorfik.gl/oqaatsit/daka
+Downloads the Greenlandic-Danish dictionary from http://ilinniusiorfik.gl/oqaatsit/daka
 
 # Quite inefficient
 
